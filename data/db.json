@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam quam nulla porttitor massa id neque aliquam vestibulum. Elementum eu facilisis sed odio morbi quis. Commodo sed egestas egestas fringilla. Diam phasellus vestibulum lorem sed risus ultricies. Amet facilisis magna etiam tempor orci eu lobortis elementum nibh. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Sit amet venenatis urna cursus eget nunc scelerisque viverra. In ante metus dictum at tempor. Sed egestas egestas fringilla phasellus. Tincidunt lobortis feugiat vivamus at. Eget velit aliquet sagittis id consectetur. Nibh sit amet commodo nulla facilisi. Elit eget gravida cum sociis natoque penatibus et magnis. Ornare suspendisse sed nisi lacus sed viverra tellus in hac. Viverra aliquet eget sit amet.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Ornare suspendisse sed nisi lacus sed viverra tellus in hac. Viverra aliquet eget sit amet.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "fgfgf",
+      "body": "gfgfsgf",
+      "tags": [
+        "html",
+        "thebest"
+      ],
+      "id": 3
+    },
+    {
+      "title": "dfad",
+      "body": "dafda",
+      "tags": [
+        "sexyback"
+      ],
+      "id": 4
+    },
+    {
+      "title": "dfad",
+      "body": "dfad",
+      "tags": [
+        "afdaf"
+      ],
+      "id": 5
+    }
+  ]
+}
